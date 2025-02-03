@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "build": "npm run build" 
+    "build": "echo 'no build re'" 
   }
 }
